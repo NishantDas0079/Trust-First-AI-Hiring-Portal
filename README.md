@@ -3,7 +3,6 @@
 [![Built with Emergent AI](https://img.shields.io/badge/Built%20with-Emergent%20AI-6C63FF?style=for-the-badge)](YOUR_EMERGENT_AI_LINK)
 [![Project Type](https://img.shields.io/badge/Project-MVP%20Showcase-22C55E?style=for-the-badge)](YOUR_EMERGENT_AI_LINK)
 [![Status](https://img.shields.io/badge/Status-Prototype-0EA5E9?style=for-the-badge)](YOUR_EMERGENT_AI_LINK)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](./LICENSE)
 
 </div>
 
