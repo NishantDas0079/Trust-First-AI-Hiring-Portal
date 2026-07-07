@@ -1,0 +1,6 @@
+{
+  "name": "Trust-First AI Hiring Portal",
+  "description": "A showcase recruiter dashboard and candidate application portal with real-time server-side Gemini screening, transparency reports, and a lightweight audit trail.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
