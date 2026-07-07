@@ -104,8 +104,8 @@ It is **not** built as a real-world enterprise hiring system.
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/NishantDas0079/trust-first-ai-hiring-portal
-cd Trust-Hiring-AI-Portal
+git clone https://github.com/NishantDas0079/Trust-First-AI-Hiring-Portal
+cd Trust-First-AI-Hiring-Portal
 ```
 
 ### 2. Install dependencies
