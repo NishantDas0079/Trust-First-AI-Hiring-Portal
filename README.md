@@ -1,8 +1,4 @@
 <div align="center">
-  <img width="1200" height="475" alt="Emergent AI Banner" src="YOUR_EMERGENT_AI_BANNER_LINK" />
-</div>
-
-<div align="center">
 
 [![Built with Emergent AI](https://img.shields.io/badge/Built%20with-Emergent%20AI-6C63FF?style=for-the-badge)](YOUR_EMERGENT_AI_LINK)
 [![Project Type](https://img.shields.io/badge/Project-MVP%20Showcase-22C55E?style=for-the-badge)](YOUR_EMERGENT_AI_LINK)
@@ -108,8 +104,8 @@ It is **not** built as a real-world enterprise hiring system.
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git
-cd YOUR-REPO-NAME
+git clone https://github.com/NishantDas0079/trust-first-ai-hiring-portal
+cd Trust-Hiring-AI-Portal
 ```
 
 ### 2. Install dependencies
